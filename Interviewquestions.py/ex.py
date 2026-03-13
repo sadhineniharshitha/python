@@ -58,4 +58,4 @@
 #         print(i,"is prime")
 #     i+=1        
 # palindrome for string
-str="madam"
+
